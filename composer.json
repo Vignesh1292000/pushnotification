@@ -1,0 +1,22 @@
+{
+    "name": "Vignesh1292000/pushnotification",
+    "description": "Your project description",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vignesh",
+            "email": "your@email.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.3.7",
+		"kreait/firebase-php": "*",
+		"cboden/ratchet": "*",
+		"kreait/firebase-tokens": "*",
+		"kreait/firebase-bundle": "*",
+		"wyrihaximus/elephant.io": "^3.1",
+        "cboden/codeigniter-socketio": "^4.0"
+	}
+}
